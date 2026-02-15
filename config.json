@@ -1,0 +1,11 @@
+{
+  "twilio": {
+    "account_sid": "YOUR_SID_HERE",
+    "auth_token": "YOUR_TOKEN_HERE",
+    "from_number": "your_twilio_number",
+    "to_number": "+21629407534"
+  },
+  "newsapi_key": "YOUR_NEWSAPI_KEY",
+  "check_interval_hours": 24
+}
+
