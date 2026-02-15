@@ -180,12 +180,6 @@ Contributions are welcome! Feel free to:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
-
-**Your Name**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
