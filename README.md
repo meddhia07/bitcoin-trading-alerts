@@ -24,7 +24,7 @@ An automated cryptocurrency monitoring system that tracks Bitcoin price changes 
   - Twilio API (SMS notifications)
 - **Libraries**: `requests`, `twilio`, `python-dotenv`
 
-## 📸 Screenshots
+
 
 ### Terminal Output
 ```
